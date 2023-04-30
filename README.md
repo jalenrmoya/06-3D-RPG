@@ -1,19 +1,7 @@
-# 3D RPG
-April 29th, 2023
+# 3D-Character
 
-This is my submission for Project 06, the 3D RPG
+An animated 3D character that can be used in the 3D-RPG project
+@ -11,3 +12,24 @@ Created in Blender 3.5 and Godot 3.5
+## Created By
 
-## Implementation
-
-
-## References
-
-- https://ambientcg.com/view?id=Plastic010
-- https://ambientcg.com/view?id=Metal042A
-- https://ambientcg.com/view?id=Metal046B
-- https://ambientcg.com/view?id=Metal032
-- https://www.kenney.nl/assets/space-kit
-- https://www.patreon.com/posts/blender-export-16916038
-- https://www.kenney.nl/assets/blaster-kit
-
-## Created by Jalen Moya
+Jason Francis
